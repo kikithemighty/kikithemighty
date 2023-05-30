@@ -2,7 +2,8 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me? email: shekinahglorymoshepeter
+- 📫 How to reach me? 
+- email: shekinahglorymoshepeter02@gmail.com
 - whatsapp: +233509445592
 
 <!---
